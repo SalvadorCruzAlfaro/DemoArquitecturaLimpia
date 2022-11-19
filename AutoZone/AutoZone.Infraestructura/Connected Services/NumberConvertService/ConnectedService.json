@@ -1,0 +1,19 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://www.dataaccess.com/webservicesserver/numberconversion.wso?WSDL"
+    ],
+    "collectionTypes": [
+      "System.Collections.Generic.Dictionary`2",
+      "System.Collections.ObjectModel.ObservableCollection`1"
+    ],
+    "namespaceMappings": [
+      "*, NumberConvertService"
+    ],
+    "references": [
+      "C:\\Curso\\AutoZone\\AutoZone.Infraestructura\\bin\\Debug\\net6.0\\AutoZone.Common.dll"
+    ],
+    "targetFramework": "net6.0",
+    "typeReuseMode": "All"
+  }
+}

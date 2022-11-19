@@ -1,0 +1,15 @@
+C:\Curso\AutoZone\AntoZone.LogicaUperCase\bin\Debug\net6.0\AntoZone.LogicaUperCase.deps.json
+C:\Curso\AutoZone\AntoZone.LogicaUperCase\bin\Debug\net6.0\AntoZone.LogicaUperCase.dll
+C:\Curso\AutoZone\AntoZone.LogicaUperCase\bin\Debug\net6.0\AntoZone.LogicaUperCase.pdb
+C:\Curso\AutoZone\AntoZone.LogicaUperCase\bin\Debug\net6.0\AutoZone.Common.dll
+C:\Curso\AutoZone\AntoZone.LogicaUperCase\bin\Debug\net6.0\AutoZone.Common.pdb
+C:\Curso\AutoZone\AntoZone.LogicaUperCase\obj\Debug\net6.0\AntoZone.LogicaUperCase.csproj.AssemblyReference.cache
+C:\Curso\AutoZone\AntoZone.LogicaUperCase\obj\Debug\net6.0\AntoZone.LogicaUperCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\AutoZone\AntoZone.LogicaUperCase\obj\Debug\net6.0\AntoZone.LogicaUperCase.AssemblyInfoInputs.cache
+C:\Curso\AutoZone\AntoZone.LogicaUperCase\obj\Debug\net6.0\AntoZone.LogicaUperCase.AssemblyInfo.cs
+C:\Curso\AutoZone\AntoZone.LogicaUperCase\obj\Debug\net6.0\AntoZone.LogicaUperCase.csproj.CoreCompileInputs.cache
+C:\Curso\AutoZone\AntoZone.LogicaUperCase\obj\Debug\net6.0\AntoZone.LogicaUperCase.csproj.CopyComplete
+C:\Curso\AutoZone\AntoZone.LogicaUperCase\obj\Debug\net6.0\AntoZone.LogicaUperCase.dll
+C:\Curso\AutoZone\AntoZone.LogicaUperCase\obj\Debug\net6.0\refint\AntoZone.LogicaUperCase.dll
+C:\Curso\AutoZone\AntoZone.LogicaUperCase\obj\Debug\net6.0\AntoZone.LogicaUperCase.pdb
+C:\Curso\AutoZone\AntoZone.LogicaUperCase\obj\Debug\net6.0\ref\AntoZone.LogicaUperCase.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AutoZone.Infraestructura/1.0.0": {
+        "dependencies": {
+          "AutoZone.Common": "1.0.0"
+        },
+        "runtime": {
+          "AutoZone.Infraestructura.dll": {}
+        }
+      },
+      "AutoZone.Common/1.0.0": {
+        "runtime": {
+          "AutoZone.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoZone.Infraestructura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoZone.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

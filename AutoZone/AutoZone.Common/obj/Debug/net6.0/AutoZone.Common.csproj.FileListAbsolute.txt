@@ -1,0 +1,12 @@
+C:\Curso\AutoZone\AutoZone.Common\bin\Debug\net6.0\AutoZone.Common.deps.json
+C:\Curso\AutoZone\AutoZone.Common\bin\Debug\net6.0\AutoZone.Common.dll
+C:\Curso\AutoZone\AutoZone.Common\bin\Debug\net6.0\AutoZone.Common.pdb
+C:\Curso\AutoZone\AutoZone.Common\obj\Debug\net6.0\AutoZone.Common.csproj.AssemblyReference.cache
+C:\Curso\AutoZone\AutoZone.Common\obj\Debug\net6.0\AutoZone.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\AutoZone\AutoZone.Common\obj\Debug\net6.0\AutoZone.Common.AssemblyInfoInputs.cache
+C:\Curso\AutoZone\AutoZone.Common\obj\Debug\net6.0\AutoZone.Common.AssemblyInfo.cs
+C:\Curso\AutoZone\AutoZone.Common\obj\Debug\net6.0\AutoZone.Common.csproj.CoreCompileInputs.cache
+C:\Curso\AutoZone\AutoZone.Common\obj\Debug\net6.0\AutoZone.Common.dll
+C:\Curso\AutoZone\AutoZone.Common\obj\Debug\net6.0\refint\AutoZone.Common.dll
+C:\Curso\AutoZone\AutoZone.Common\obj\Debug\net6.0\AutoZone.Common.pdb
+C:\Curso\AutoZone\AutoZone.Common\obj\Debug\net6.0\ref\AutoZone.Common.dll

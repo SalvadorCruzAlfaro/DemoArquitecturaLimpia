@@ -1,0 +1,15 @@
+C:\Curso\AutoZone\AutoZone.Negocio\bin\Debug\net6.0\AutoZone.Negocio.deps.json
+C:\Curso\AutoZone\AutoZone.Negocio\bin\Debug\net6.0\AutoZone.Negocio.dll
+C:\Curso\AutoZone\AutoZone.Negocio\bin\Debug\net6.0\AutoZone.Negocio.pdb
+C:\Curso\AutoZone\AutoZone.Negocio\bin\Debug\net6.0\AutoZone.Common.dll
+C:\Curso\AutoZone\AutoZone.Negocio\bin\Debug\net6.0\AutoZone.Common.pdb
+C:\Curso\AutoZone\AutoZone.Negocio\obj\Debug\net6.0\AutoZone.Negocio.csproj.AssemblyReference.cache
+C:\Curso\AutoZone\AutoZone.Negocio\obj\Debug\net6.0\AutoZone.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\AutoZone\AutoZone.Negocio\obj\Debug\net6.0\AutoZone.Negocio.AssemblyInfoInputs.cache
+C:\Curso\AutoZone\AutoZone.Negocio\obj\Debug\net6.0\AutoZone.Negocio.AssemblyInfo.cs
+C:\Curso\AutoZone\AutoZone.Negocio\obj\Debug\net6.0\AutoZone.Negocio.csproj.CoreCompileInputs.cache
+C:\Curso\AutoZone\AutoZone.Negocio\obj\Debug\net6.0\AutoZone.Negocio.csproj.CopyComplete
+C:\Curso\AutoZone\AutoZone.Negocio\obj\Debug\net6.0\AutoZone.Negocio.dll
+C:\Curso\AutoZone\AutoZone.Negocio\obj\Debug\net6.0\refint\AutoZone.Negocio.dll
+C:\Curso\AutoZone\AutoZone.Negocio\obj\Debug\net6.0\AutoZone.Negocio.pdb
+C:\Curso\AutoZone\AutoZone.Negocio\obj\Debug\net6.0\ref\AutoZone.Negocio.dll

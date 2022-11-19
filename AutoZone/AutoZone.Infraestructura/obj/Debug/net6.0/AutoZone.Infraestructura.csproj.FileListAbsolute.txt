@@ -1,0 +1,15 @@
+C:\Curso\AutoZone\AutoZone.Infraestructura\bin\Debug\net6.0\AutoZone.Infraestructura.deps.json
+C:\Curso\AutoZone\AutoZone.Infraestructura\bin\Debug\net6.0\AutoZone.Infraestructura.dll
+C:\Curso\AutoZone\AutoZone.Infraestructura\bin\Debug\net6.0\AutoZone.Infraestructura.pdb
+C:\Curso\AutoZone\AutoZone.Infraestructura\bin\Debug\net6.0\AutoZone.Common.dll
+C:\Curso\AutoZone\AutoZone.Infraestructura\bin\Debug\net6.0\AutoZone.Common.pdb
+C:\Curso\AutoZone\AutoZone.Infraestructura\obj\Debug\net6.0\AutoZone.Infraestructura.csproj.AssemblyReference.cache
+C:\Curso\AutoZone\AutoZone.Infraestructura\obj\Debug\net6.0\AutoZone.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\AutoZone\AutoZone.Infraestructura\obj\Debug\net6.0\AutoZone.Infraestructura.AssemblyInfoInputs.cache
+C:\Curso\AutoZone\AutoZone.Infraestructura\obj\Debug\net6.0\AutoZone.Infraestructura.AssemblyInfo.cs
+C:\Curso\AutoZone\AutoZone.Infraestructura\obj\Debug\net6.0\AutoZone.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Curso\AutoZone\AutoZone.Infraestructura\obj\Debug\net6.0\AutoZone.Infraestructura.csproj.CopyComplete
+C:\Curso\AutoZone\AutoZone.Infraestructura\obj\Debug\net6.0\AutoZone.Infraestructura.dll
+C:\Curso\AutoZone\AutoZone.Infraestructura\obj\Debug\net6.0\refint\AutoZone.Infraestructura.dll
+C:\Curso\AutoZone\AutoZone.Infraestructura\obj\Debug\net6.0\AutoZone.Infraestructura.pdb
+C:\Curso\AutoZone\AutoZone.Infraestructura\obj\Debug\net6.0\ref\AutoZone.Infraestructura.dll
